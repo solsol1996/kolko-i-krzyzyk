@@ -28,7 +28,7 @@ body {
     background-color: red;
     transform-origin: 0 0;
 }
-.notification {
+.notification { 
     display: none;
     background-color: #4CAF50;
     color: white;
@@ -74,4 +74,7 @@ body {
 
 #resetBtn:active {
     background-color: cadetblue;
+}
+#message {
+    font-size: 170%;
 }
